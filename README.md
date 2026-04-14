@@ -17,7 +17,6 @@ A simple Node.js tool to check the availability of GitHub usernames in bulk.
 ---
 
 ## 📁 Project Structure
-
 ```
 Username-Checker/
 │── checker.js        # Main script
