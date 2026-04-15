@@ -120,10 +120,6 @@ Do not use this tool for:
 
 This project is open source and available for educational purposes.
 
-## 👤 Author
-
-Created for cybersecurity education and OSINT learning.
-
 ## 🤝 Contributing
 
 Feel free to fork, improve, and submit pull requests. Suggestions for additional platforms are welcome!
