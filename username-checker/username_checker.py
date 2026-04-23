@@ -3,14 +3,10 @@
 Username Checker - Check username availability across multiple platforms
 """
 
-
-
-
 import requests
 import json
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
 
 def load_sites(filename='sites.json'):
     """Load platform URLs from JSON file"""
