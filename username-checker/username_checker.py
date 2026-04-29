@@ -118,6 +118,5 @@ def main():
     print("\n⚠️  Disclaimer: This tool is for educational purposes only.")
     print("Use responsibly and ethically.\n")
 
-
 if __name__ == "__main__":
     main()
